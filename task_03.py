@@ -11,4 +11,3 @@ SACRIFICE = True
 
 if LOOKS_NICE and (EXPENSE >= MAX_EXPENSE) or GET_OUT_ALIVE:
     print SACRIFICE
-            

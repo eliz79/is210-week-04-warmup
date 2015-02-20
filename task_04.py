@@ -8,9 +8,8 @@ LONGSTR = 'short'
 
 if len(MYINPUT) < MAX_LENGTH:
     print MYINPUT.replace('short', 'long')
-    
+
 # You code goes here
 
 OUTPUT = 'That certainly was a {} story!'.format(LONGSTR)
 print OUTPUT
-
